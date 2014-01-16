@@ -60,7 +60,9 @@ Sets dayName's open hours to the parsed value of timeString.  The format of dayN
 <code>.merge(hoursObject)</code>
 <br/>
 Merge hoursObject (a bizHours object) into this object.
+
     h.merge(other)
+
 <p>
 <b>humanize</b>
 <code>.humanize()</code>
