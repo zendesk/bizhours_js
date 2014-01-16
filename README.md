@@ -92,6 +92,11 @@ The same as .humanize, but with runs of days that have the same hours collapsed 
        hours: "11am-5pm"},
       ...
     ]
+<p>
+<b>within</b>
+<code>.within(date)</code>
+<br/>
+Returns whether the given date is within the business' open hours (assuming that the date and biz hours are within the same timezone).
 
 
 
